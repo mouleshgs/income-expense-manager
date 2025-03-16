@@ -18,7 +18,7 @@ Follow the steps below to compile and run the application:
 ### 1. Clone the Repository
 To get a local copy of the project, use the following command:
 ```bash
-git clone https://github.com/mouleshleo/income-expense-manager.git
+git clone https://github.com/mouleshgs/income-expense-manager.git
 ```
 ### 2. Navigate the directory
 ```bash
